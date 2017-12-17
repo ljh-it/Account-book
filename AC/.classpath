@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/lujuhong/Desktop/java/chart.jar"/>
+	<classpathentry kind="lib" path="/Users/lujuhong/Desktop/任务/weblaf-src-1.29.jar"/>
+	<classpathentry kind="lib" path="/Users/lujuhong/Desktop/任务/weblaf-1.29.jar"/>
+	<classpathentry kind="lib" path="/Users/lujuhong/Desktop/任务/weblaf-ui-1.29.jar"/>
+	<classpathentry kind="lib" path="/Users/lujuhong/Desktop/任务/weblaf-core-1.29.jar" sourcepath="src"/>
+	<classpathentry kind="lib" path="/Users/lujuhong/Desktop/任务/weblaf-demo-1.29.jar" sourcepath="/Users/lujuhong/Desktop/任务/weblaf-core-1.29.jar"/>
+	<classpathentry kind="lib" path="/Users/lujuhong/Desktop/任务/weblaf-complete-1.29.jar"/>
+	<classpathentry kind="lib" path="/Users/lujuhong/Desktop/任务/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="/Users/lujuhong/Desktop/任务/swingx-core-1.6.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
